@@ -8,6 +8,20 @@
     display: flex;
     box-sizing: border-box;
     width: 100%;
+    height: 680px;
+}
+.box{
+
+    width: 33.3%;
+}
+#blue{
+    background: blue;
+}
+#purple{
+    background: purple;
+}
+#yellow{
+    background: yellow;
 }
 
 .footer{
@@ -15,6 +29,5 @@
     height: 60px;
     background: green;
     margin: auto;
-    position: absolute;
     bottom: 0;
 }
